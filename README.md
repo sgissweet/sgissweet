@@ -2,7 +2,9 @@
   Hi there 👋 I'm Nitkamon Srijudanu (Pang)
 </h1>
 
-🎓 **Third-year Computer Engineering student at KMITL**
+<p align="center">
+🎓 Third-year Computer Engineering student at KMITL
+</p>
 
 ## 🛠️ Tech Stack
 
