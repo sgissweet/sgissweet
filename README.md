@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Nitkamon Srijudanu (Pang)
+<h1 align="center">
+  Hi there 👋 I'm Nitkamon Srijudanu (Pang)
+</h1>
 
 🎓 **Third-year Computer Engineering student at KMITL**
 
